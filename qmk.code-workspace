@@ -2,6 +2,13 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "keyboards\\Andreasaaj"
+		},
+		{
+			"name": "qmk_firmware @ 36eb04f",
+			"uri": "gitlens://36eb04f/c:/Users/Andre/qmk_firmware?{\"path\":\"/c:/Users/Andre/qmk_firmware\",\"ref\":\"36eb04f76b79ceca31d7a9290b8eeffcc1c4c62b\",\"repoPath\":\"c:/Users/Andre/qmk_firmware\"}"
 		}
 	],
 	"settings": {
